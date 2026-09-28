@@ -1,0 +1,16 @@
+{
+  "name": "JARVIS Assistant",
+  "version": "1.0.0",
+  "description": "A voice-controlled AI assistant for your computer",
+  "language": "en-US",
+  "voice_speed": 150,
+  "voice_volume": 0.9,
+  "commands": {
+    "time": "Get current time",
+    "date": "Get current date",
+    "search": "Search the web",
+    "browser": "Open web browser",
+    "help": "Show available commands",
+    "exit": "Exit JARVIS"
+  }
+}
